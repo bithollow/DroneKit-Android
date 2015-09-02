@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation" >
     <string name="navigation_connections_label">Connections</string>
     <string name="navigation_developers_label">Developers</string>
     <string name="navigation_settings_label">Settings</string>
