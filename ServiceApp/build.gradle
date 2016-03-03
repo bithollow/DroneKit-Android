@@ -210,6 +210,7 @@ android {
     //FIXME: Remove when lint errors are taken care of.
     lintOptions {
         abortOnError false
+        disable 'MissingTranslation'
     }
 
     testOptions {
